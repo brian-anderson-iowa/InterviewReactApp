@@ -50,6 +50,9 @@ class App extends React.Component {
   render() {
     return (
       <div>
+        <hr/>
+        <h1 style={{textAlign: 'center'}}>Brian's Auto Mall</h1>
+        <hr/>
         <div className="dx-fieldset">
           <div className="dx-field">
             <div className="dx-field-label">Select a Car Type</div>
