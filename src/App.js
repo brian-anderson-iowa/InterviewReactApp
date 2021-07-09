@@ -51,7 +51,7 @@ class App extends React.Component {
     return (
       <div>
         <hr/>
-        <h1 style={{textAlign: 'center'}}>Brian's Auto Mall</h1>
+        <h1 style={{textAlign: 'center'}}>Brian's Mall</h1>
         <hr/>
         <div className="dx-fieldset">
           <div className="dx-field">
