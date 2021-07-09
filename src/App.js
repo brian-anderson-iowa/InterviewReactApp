@@ -69,7 +69,7 @@ class App extends React.Component {
           dataSource={this.state.gridDataStore}
           showBorders={true}
           height={600}
-          remoteOperations={true}
+          remoteOperations={false}
         >
           <FilterRow visible={true} />
           <HeaderFilter visible={true} />
